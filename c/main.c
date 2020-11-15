@@ -3,6 +3,6 @@
 #include <string.h>
 
 int main(int argc, char *argv[]) {
-	printf("%s\n", "Welcome to the main function!");
+	printf("%s\n", "Welcome to C's main function!");
 	return 0;
 }
