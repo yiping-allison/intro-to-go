@@ -134,8 +134,10 @@ If/Else statements are similar to other programming languages'.
 ```go
 if x < 10 {
     fmt.Println("Less than 10")
+} else if x > 10 {
+    fmt.Println("Greater than 10")
 } else {
-    fmt.Println("Greater or equal to 10")
+    fmt.Println("Is 10")
 }
 ```
 
@@ -180,6 +182,7 @@ if _, ok := myMap["three"]; ok {
 ```
 
 :bulb: Like Python, Go has the `_` symbol to denote that we will not be using a particular value.
+
 :bulb: Maps have a validation bool - _ok_. **ok** will be set true if our condition returns true, else false
 
 ### Slices
