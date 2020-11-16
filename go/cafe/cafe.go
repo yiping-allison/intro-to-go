@@ -41,8 +41,8 @@ func (c *Cafe) Init() {
 		{"Latte", 5},
 	}
 	c.CafeFood = []Food{
-		{"Chocolate Chip Cookies", 5, 78},
-		{"Blueberry Muffin", 5, 467},
-		{"Fruit Cup", 7, 124},
+		{"chocolate chip cookies", 5, 78},
+		{"blueberry muffin", 5, 467},
+		{"fruit cup", 7, 124},
 	}
 }
