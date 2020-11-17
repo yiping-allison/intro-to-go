@@ -8,4 +8,4 @@ This repository is designed to be a mini presentation and code example about Go.
 |:-------------------------------:|:-----------------------------------------|
 | Introduction                    | [:book:](notes/intro.md)                 |
 | Object Oriented Programming     | [:book:](notes/oop.md)                   |
-| Concurrency                     | [:book:](notes/concurrency.md)                   |
+| Concurrency                     | [:book:](notes/concurrency.md)           |
